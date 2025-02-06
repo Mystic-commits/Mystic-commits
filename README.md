@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 # 🚀 Welcome to Yug's Tech Universe! 
 
