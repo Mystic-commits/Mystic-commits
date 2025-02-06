@@ -12,7 +12,7 @@ class YugJohri:
     def __init__(self):
         self.name = "Yug Johri"
         self.role = "Full Stack Developer"
-        self.languages = ["Python", "JavaScript", "Java"]
+        self.languages = ["Python", "JavaScript", "Figma"]
         self.interests = ["AI/ML", "Web Development", "Automation"]
         self.fun_fact = "I turn coffee into code and boring tasks into Python scripts!"
         
