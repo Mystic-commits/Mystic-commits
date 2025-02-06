@@ -2,7 +2,7 @@
   
 # 🚀 Welcome to Yug's Tech Universe! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7E4&random=false&width=435&lines=Python+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7E4&random=false&width=435&lines=Python+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg) 
 
 </div>
 
@@ -41,17 +41,13 @@ me.say_hi()
   &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   &nbsp;&nbsp;
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  &nbsp;&nbsp;
 <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   &nbsp;&nbsp;
-<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   &nbsp;&nbsp;
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </div>
 
 <br><br><br>
