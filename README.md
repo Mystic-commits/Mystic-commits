@@ -69,12 +69,17 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/Mystic-commits">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mystic-commits/Mystic-commits/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mystic-commits/Mystic-commits/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Mystic-commits/Mystic-commits/blob/output/github-contribution-grid-snake.svg" />
-</picture></a>
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://raw.githubusercontent.com/Mystic-commits/Mystic-commits/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://raw.githubusercontent.com/Mystic-commits/Mystic-commits/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" 
+           src="https://raw.githubusercontent.com/Mystic-commits/Mystic-commits/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </a>
 </div>
+
   
   *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 </div>
