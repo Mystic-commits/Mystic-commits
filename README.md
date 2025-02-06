@@ -68,11 +68,11 @@ me.say_hi()
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://github.com/pythonicforge">
+  <a href="https://github.com/Mystic-commits">
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mystic-commits/Mystic-commits/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mystic-commits/Mystic-commits/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Mystic-commits/Mystic-commits/blob/output/github-contribution-grid-snake.svg" />
 </picture></a>
 </div>
   
