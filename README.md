@@ -68,15 +68,13 @@ me.say_hi()
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-yugjohri520%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yugjohri520@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Support%20Me-Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/Mystic-commits)
-
+  <a href="https://github.com/pythonicforge">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/pythonicforge/pythonicforge/blob/output/github-contribution-grid-snake.svg" />
+</picture></a>
 </div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mystic-commits&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   
   *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 </div>
