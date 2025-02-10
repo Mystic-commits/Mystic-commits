@@ -65,7 +65,7 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystic-commits&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## 🤝 Let's Connect!
+## 🤝 Let's Code!
 
 <div align="center">
   <a href="https://github.com/Mystic-commits">
