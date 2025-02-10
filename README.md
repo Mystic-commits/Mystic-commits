@@ -78,8 +78,8 @@ me.say_hi()
            src="https://raw.githubusercontent.com/Mystic-commits/Mystic-commits/output/github-contribution-grid-snake.svg" /> -->
     </picture>
   </a>
-</div>
+</div >
 
   
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  <p align="center">"Code is like humor. When you have to explain it, it's bad." – Cory House</p>
 </div>
