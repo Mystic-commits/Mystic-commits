@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7E4&random=false&width=435&lines=Python+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 </div>
 
 ---
