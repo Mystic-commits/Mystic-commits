@@ -14,7 +14,7 @@ class YugJohri:
     def __init__(self):
         self.name = "Yug Johri"
         self.role = "Full Stack Developer | AI/ML Enthusiast"
-        self.skills = ["Python", "JavaScript", "React", "Django", "Flask"]
+        self.skills = ["Python", "JavaScript", "React", "Flask"]
         self.interests = ["AI/ML", "Web Development", "Automation"]
         self.motto = "Code, Create, Innovate!"
 
@@ -29,8 +29,8 @@ print(me.say_hi())
 
 ## 🌟 What I'm Up To
 ✅ **Building** intelligent solutions with Python & AI/ML  
-🎨 **Designing** sleek web apps with React & TailwindCSS  
-🔥 **Mastering** Flask & Django for scalable backend development  
+🎨 **Designing** sleek web apps with React & CSS  
+🔥 **Mastering** Flask for scalable backend development  
 🤖 **Automating** tasks with Python scripts  
 📚 **Learning** new technologies every day  
 
