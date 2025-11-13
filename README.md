@@ -63,13 +63,17 @@ print(me.say_hi())
 
 ---
 
-## 🤝 Let's Connect
+## 🎃 Hacktoberfest 2025 Badges
+
 <p align="center">
-  <a href="https://github.com/Mystic-commits"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/yugjohri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:yugjohri@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150"/>
 </p>
 
----
 
 <p align="center">"Code is like humor. If you have to explain it, it’s bad." – Cory House</p>
