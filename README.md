@@ -121,4 +121,4 @@ print(me.say_hi())
 </p>
 
 
-<p align="center">"Code is like humor. If you have to explain it, it’s bad." – Cory House</p> how is this reademe for github
+<p align="center">"Code is like humor. If you have to explain it, it’s bad." – Cory House</p>
