@@ -1,124 +1,191 @@
 <div align="center">
-  
-# 🚀 Welcome to Yug's Tech Universe!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7E4&random=false&width=435&lines=Python+Developer;AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
+# YUG JOHRI
+
+### AI/ML Engineer · Full-Stack Developer · Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=888888&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+solve+real+problems;Exploring+LLMs%2C+RAG+%26+intelligent+agents;From+idea+to+product+to+production" />
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/yugjohri/) ·
+[Portfolio](https://mystic-commits.github.io/Portfolio/Portfolio) ·
+[Email](mailto:yugjohri520@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
-```python
-class YugJohri:
-    def __init__(self):
-        self.name = "Yug Johri"
-        self.role = "Full Stack Developer | AI/ML Enthusiast"
-        self.skills = ["Python", "JavaScript", "React", "Flask"]
-        self.interests = ["AI/ML", "Web Development", "Automation"]
-        self.motto = "Code, Create, Innovate!"
+## About
 
-    def say_hi(self):
-        return "Thanks for dropping by! Let's build something amazing. 🚀"
+I like working where **software meets real problems**.
 
-me = YugJohri()
-print(me.say_hi())
+My work spans **AI/ML, LLM evaluation, RAG systems and full-stack engineering**. I enjoy turning ideas into products, experimenting with new systems, and contributing to software that is actually used.
+
+Currently exploring **AI agents, retrieval systems, developer tools and applied ML**.
+
+---
+
+## `~/current`
+
+```text
+$ whoami
+
+Yug Johri
+
+$ focus
+
+LLMs
+AI Evaluation
+RAG
+AI Agents
+Machine Learning
+Full-Stack Engineering
+
+$ status
+
+building...
 ```
 
 ---
 
-## 🌟 What I'm Up To
-✅ **Building** intelligent solutions with Python & AI/ML  
-🎨 **Designing** sleek web apps with React & CSS  
-🔥 **Mastering** Flask for scalable backend development  
-🤖 **Automating** tasks with Python scripts  
-📚 **Learning** new technologies every day  
+## Selected Work
+
+### Sentinel
+
+**On-device AI file intelligence agent**
+
+Designed around safe execution, local inference and real-time classification.
+
+`Python` `FastAPI` `Ollama` `RAG` `WebSockets` `Tauri` `Next.js`
+
+[View repository →](https://github.com/Mystic-commits/Sentinel)
 
 ---
 
-## ⚙️ Tech Stack
+### Udyam Saathi
+
+**MSME scheme discovery platform**
+
+Built an eligibility engine and REST API to help users discover relevant government schemes.
+
+**3rd Prize — Prod-G Hackathon, IIT Roorkee**
+
+---
+
+### EV Charging Classification
+
+**Applied machine learning system**
+
+Random Forest + XGBoost ensemble with SMOTE and threshold tuning.
+
+**37% F1-score improvement**
+
+---
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br>
+
+**Quillora**
+TypeScript-based product focused on a modern AI-powered writing experience.
+
+**Air Canvas**
+Computer-vision based interactive drawing system.
+
+</details>
+
+---
+
+## Experience
+
+**AI Trainer & Prompt Evaluator**
+`Outlier AI · Handshake AI · micro1`
+
+LLM reasoning, truthfulness, instruction adherence, adversarial prompts, structured evaluation and RLHF data scoring.
+
+**Full-Stack Development Intern**
+`NovaAutomata Innovations`
+
+Built Django REST APIs and 10+ React components for a DRDO-facing platform, reducing manual data handling by approximately 30%.
+
+**Vice President — Blockchain Department**
+`DevClub · Rishihood University`
+
+Technical workshops, contributor onboarding, code review and Solidity/EVM development.
+
+---
+
+## Numbers
+
 <div align="center">
 
-<!-- Programming -->
-<a href="https://python.org">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-</a>
-
-<!-- Frontend -->
-<a href="https://react.dev/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
-</a>
-
-<!-- Backend -->
-<a href="https://flask.palletsprojects.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50"/>
-</a>
-
-<!-- AI / ML -->
-<a href="https://scikit-learn.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
-</a>
-<a href="https://numpy.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
-</a>
-<a href="https://pandas.pydata.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-</a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
-</a>
-<a href="https://github.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
-</a>
-<a href="https://figma.com">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/>
-</a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
-</a>
+|    1357    |   1610   |   250+   |
+| :--------: | :------: | :------: |
+| Codeforces | LeetCode | Problems |
 
 </div>
 
+---
+
+## Stack
+
+```text
+Languages
+Python · TypeScript · JavaScript · C++ · SQL · Solidity
+
+AI / ML
+RAG · LangChain · LangGraph · Ollama · XGBoost · scikit-learn
+
+Backend
+FastAPI · Django REST · PostgreSQL · WebSockets · Docker
+
+Frontend
+React · Next.js · Tauri
+```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mystic-commits&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystic-commits&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mystic-commits&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystic-commits&layout=compact&theme=transparent&hide_border=true" height="165"/>
+
 </div>
 
 ---
 
-## 🚀 Contribution Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystic-commits&theme=tokyonight" alt="GitHub Streak"/>
+
+### 84 contributions this year
+
+<img src="https://streak-stats.demolab.com?user=Mystic-commits&theme=transparent&hide_border=true" />
+
 </div>
 
 ---
 
-## 🎃 Hacktoberfest 2025 Badges
+## Currently Building
 
-<p align="center">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="150"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="150"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150"/>
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150"/>
-</p>
+```text
+AI agents        ███████████████░░░
+RAG systems      ██████████████░░░░
+Open source      ████████████░░░░░░
+Competitive Prog ██████████░░░░░░░░
+```
 
+---
 
-<p align="center">"Code is like humor. If you have to explain it, it’s bad." – Cory House</p>
+<div align="center">
+
+### Still building.
+
+### Still learning.
+
+### Still in draft.
+
+</div>
