@@ -57,7 +57,9 @@ building...
 
 Designed around safe execution, local inference and real-time classification.
 
-`Python` `FastAPI` `Ollama` `RAG` `WebSockets` `Tauri` `Next.js`
+`Python` `FastAPI` `Ollama` `WebSockets` `Tauri` `Next.js`
+
+Developer preview: production hardening and individual/team product flows are in progress.
 
 [View repository →](https://github.com/Mystic-commits/Sentinel)
 
@@ -71,6 +73,8 @@ Built an eligibility engine and REST API to help users discover relevant governm
 
 **3rd Prize — Prod-G Hackathon, IIT Roorkee**
 
+[Repository](https://github.com/Mystic-commits/Udyam-Saathi)
+
 ---
 
 ### EV Charging Classification
@@ -80,6 +84,8 @@ Built an eligibility engine and REST API to help users discover relevant governm
 Random Forest + XGBoost ensemble with SMOTE and threshold tuning.
 
 **37% F1-score improvement**
+
+[Repository and evaluation details](https://github.com/Mystic-commits/EV_charging_station_model)
 
 ---
 
@@ -91,8 +97,12 @@ Random Forest + XGBoost ensemble with SMOTE and threshold tuning.
 **Quillora**
 TypeScript-based product focused on a modern AI-powered writing experience.
 
+[Repository](https://github.com/Mystic-commits/Quillora-Project)
+
 **Air Canvas**
 Computer-vision based interactive drawing system.
+
+[Repository](https://github.com/Mystic-commits/Air-Canvas)
 
 </details>
 
@@ -161,7 +171,7 @@ React · Next.js · Tauri
 
 <div align="center">
 
-### 84 contributions this year
+### Contribution activity
 
 <img src="https://streak-stats.demolab.com?user=Mystic-commits&theme=transparent&hide_border=true" />
 
